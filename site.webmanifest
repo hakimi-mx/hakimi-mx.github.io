@@ -1,0 +1,22 @@
+{
+  "name": "Hakimi Group",
+  "short_name": "Hakimi",
+  "description": "Consultoría ISO 9001, 14001, 45001 y 22000 en Guadalajara y AMG.",
+  "lang": "es",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#B3402E",
+  "icons": [
+    {
+      "src": "/icons/icon-180.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
